@@ -1,0 +1,6 @@
+version: 1
+cron:
+  - name: "scheduler"
+    url: "/?suzie=scheduler&token=EIE1AsOQtvYY2yas"
+    schedule: "* * * * *"
+    
